@@ -38,4 +38,4 @@ elif proceed == 'd':
     print(Val1, "/", Val2, "=", Divide(Val1, Val2))
 
 else:
-    print("Enter valid choice")
+    print("retry")
